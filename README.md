@@ -4,7 +4,7 @@ Full Stack Developer who loves building clean, purposeful web experiences — fr
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -17,21 +17,20 @@ Full Stack Developer who loves building clean, purposeful web experiences — fr
 
 <br/>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=31Pritika&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=31Pritika&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=31Pritika&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-## 🌱 Currently
+## Currently
 
-- 🔭 Building full stack projects with React & Node.js
-- 📖 Exploring TypeScript patterns and clean architecture
-- 💬 Ask me about JavaScript, Python, or MongoDB
-
+- Building full stack projects with React & Node.js
+- Exploring TypeScript patterns and clean architecture
+- Working on improving DSA
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritika%20Agarwal-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritika-agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-31Pritika-333?style=flat&logo=github&logoColor=white)](https://github.com/31Pritika)
