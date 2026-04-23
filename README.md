@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pritika+Agarwal+%F0%9F%91%8B;Full+Stack+Developer;Building+clean%2C+purposeful+apps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pritika+Agarwal;Full+Stack+Developer;Building+clean%2C+purposeful+apps" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-> Full Stack Developer who loves building clean, purposeful web experiences — from polished frontends to solid backends.
+> Full Stack Developer who loves building clean, purposeful web experiences.
 
 <br/>
 
