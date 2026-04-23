@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,mongodb,git,vscode&theme=light" />
@@ -20,7 +20,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=31Pritika&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=333&text_color=555&bg_color=ffffff" height="160"/>
@@ -34,15 +34,15 @@
 
 <br/>
 
-## 🌱 Currently
+## Currently
 
-- 🔭 Building full stack projects with React & Node.js
-- 📖 Exploring TypeScript patterns and clean architecture
-- 💬 Ask me about JavaScript, Python, or MongoDB
+- Building full stack projects with React & Node.js
+- Exploring TypeScript patterns and clean architecture
+- Getting better at DSA
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/pritika-agarwal">
